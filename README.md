@@ -1,4 +1,4 @@
-# programmers
+# programmers 코딩
 프로그래머스 문제 연습
 
 ## LEVEL 0
@@ -18,9 +18,14 @@
 ![image](https://github.com/dangdangs0/programmers/assets/52357071/22f9dc23-8b6c-471a-85fe-964e512b5b4c)
 ![image](https://github.com/dangdangs0/programmers/assets/52357071/8948b567-7a42-413c-90f6-772533ff29a6)
 
-`sql`
+***
+# SQL
+
 <br/>
 
+## LEVEL 0, 1
 ![image](https://github.com/dangdangs0/programmers/assets/52357071/95eb9612-86e4-409c-b0bb-1466e156d5d0)
+
+## LEVEL 2
 ![image](https://github.com/dangdangs0/programmers/assets/52357071/d394c2be-6d7a-47ae-96ec-a63c63ae3182)
 
