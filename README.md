@@ -2,29 +2,40 @@
 프로그래머스 문제 연습
 
 ***
-# SQL(2023.05.26-2023.07.12)
 
+
+
+
+# Oracle SQL(2023.05.26-2023.07.12)
+
+<details>
+  <summary> 자세히 </summary>
+
+  ![image](https://github.com/dangdangs0/programmers/assets/52357071/ce9f0710-4fc3-473c-a544-74b0b51f7a78)
+
+
+  ## LEVEL 0, 1
+  ![image](https://github.com/dangdangs0/programmers/assets/52357071/95eb9612-86e4-409c-b0bb-1466e156d5d0)
+  
+  ## LEVEL 2
+  ![image](https://github.com/dangdangs0/programmers/assets/52357071/d394c2be-6d7a-47ae-96ec-a63c63ae3182)
+  
+  ## LEVEL 3
+  ![image](https://github.com/dangdangs0/programmers/assets/52357071/a741921c-fa8f-4581-a2f6-ccb819059756)
+  
+  ## LEVEL 4
+  ![image](https://github.com/dangdangs0/programmers/assets/52357071/833ca135-9faa-4a15-98ae-7cc984893b91)
+  
+  ## LEVEL 5
+  ![image](https://github.com/dangdangs0/programmers/assets/52357071/a2ba6e65-d763-476f-9211-2b71a9f3b4d0)
+
+</details>
 <br/>
 
-![image](https://github.com/dangdangs0/programmers/assets/52357071/ce9f0710-4fc3-473c-a544-74b0b51f7a78)
 
-
-## LEVEL 0, 1
-![image](https://github.com/dangdangs0/programmers/assets/52357071/95eb9612-86e4-409c-b0bb-1466e156d5d0)
-
-## LEVEL 2
-![image](https://github.com/dangdangs0/programmers/assets/52357071/d394c2be-6d7a-47ae-96ec-a63c63ae3182)
-
-## LEVEL 3
-![image](https://github.com/dangdangs0/programmers/assets/52357071/a741921c-fa8f-4581-a2f6-ccb819059756)
-
-## LEVEL 4
-![image](https://github.com/dangdangs0/programmers/assets/52357071/833ca135-9faa-4a15-98ae-7cc984893b91)
-
-## LEVEL 5
-![image](https://github.com/dangdangs0/programmers/assets/52357071/a2ba6e65-d763-476f-9211-2b71a9f3b4d0)
 
 ***
+
 # JAVA
 
 <br/>
