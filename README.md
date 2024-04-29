@@ -42,7 +42,7 @@
 <details>
   <summary> 자세히 </summary>
 
-    ## LEVEL 0
+  ## LEVEL 0
   `2023.04.06.-2023.04.30.`
   ![코딩테스트 입문 캘린더 (1)](https://user-images.githubusercontent.com/52357071/236615937-e9f26e57-cf24-40e9-b40d-19cb3b617715.png)
   
